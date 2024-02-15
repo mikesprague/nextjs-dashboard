@@ -5,6 +5,7 @@
     "dev": "npx next dev",
     "prettier": "npx prettier --write --ignore-unknown .",
     "prettier:check": "npx prettier --check --ignore-unknown .",
+    "seed": "node -r dotenv/config ./scripts/seed.js",
     "start": "npx next start"
   },
   "dependencies": {
