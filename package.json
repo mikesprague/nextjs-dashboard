@@ -15,7 +15,7 @@
     "@vercel/postgres": "0.7.2",
     "autoprefixer": "10.4.17",
     "bcrypt": "5.1.1",
-    "clsx": "2.1.0",
+    "clsx": "2.1.1",
     "next": "14.1.0",
     "postcss": "8.4.35",
     "react": "18.2.0",
