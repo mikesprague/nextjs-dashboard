@@ -3,6 +3,7 @@
   "scripts": {
     "build": "npx next build",
     "dev": "npx next dev",
+    "lint": "npx next lint",
     "prettier": "npx prettier --write --ignore-unknown .",
     "prettier:check": "npx prettier --check --ignore-unknown .",
     "seed": "node -r dotenv/config ./scripts/seed.js",
