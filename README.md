@@ -21,7 +21,7 @@ Note: Chapter numbers and names are from time of writing and may change
 - [x] Chapter 10 - Partial Prerendering (optional - experimental feature)
 - [x] Chapter 11 - Adding Search and Pagination
 - [x] Chapter 12 - Mutating Data
-- [ ] Chapter 13 - Handling Errors
+- [x] Chapter 13 - Handling Errors
 - [ ] Chapter 14 - Improving Accessibility
 - [ ] Chapter 15 - Adding Authentication
 - [ ] Chapter 16 - Adding Metadata
