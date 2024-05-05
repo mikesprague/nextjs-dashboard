@@ -4,7 +4,7 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-### Course
+### Course Chapters
 
 Note: Chapter numbers and names are from time of writing and may change
 
@@ -19,7 +19,7 @@ Note: Chapter numbers and names are from time of writing and may change
 - [x] Chapter 8 - Static and Dynamic Rendering
 - [x] Chapter 9 - Streaming
 - [x] Chapter 10 - Partial Prerendering (optional - experimental feature)
-- [ ] Chapter 11 - Adding Search and Pagination
+- [x] Chapter 11 - Adding Search and Pagination
 - [ ] Chapter 12 - Mutating Data
 - [ ] Chapter 13 - Handling Errors
 - [ ] Chapter 14 - Improving Accessibility
