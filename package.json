@@ -41,7 +41,7 @@
     "conventional-changelog-conventionalcommits": "8.0.0",
     "cz-git": "1.11.0",
     "dotenv": "16.4.7",
-    "eslint": "8.56.0",
+    "eslint": "9.18.0",
     "eslint-config-next": "15.1.6",
     "eslint-config-prettier": "10.0.1",
     "prettier": "3.4.2",
