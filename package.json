@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@types/bcrypt": "5.0.2",
-    "@types/react": "19.1.5",
+    "@types/react": "19.1.6",
     "@types/react-dom": "19.1.5",
     "@vercel/style-guide": "6.0.0",
     "conventional-changelog": "7.0.2",
