@@ -29,7 +29,7 @@
     "tailwindcss": "4.1.11",
     "typescript": "5.9.2",
     "use-debounce": "10.0.5",
-    "zod": "4.0.14"
+    "zod": "4.0.15"
   },
   "devDependencies": {
     "@types/bcrypt": "6.0.0",
