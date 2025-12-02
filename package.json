@@ -45,7 +45,7 @@
     "eslint-config-next": "16.0.6",
     "eslint-config-prettier": "10.1.8",
     "prettier": "3.7.3",
-    "prettier-plugin-tailwindcss": "0.7.1"
+    "prettier-plugin-tailwindcss": "0.7.2"
   },
   "config": {
     "commitizen": {
